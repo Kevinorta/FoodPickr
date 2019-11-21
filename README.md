@@ -1,2 +1,0 @@
-# FoodPickr
-Created with CodeSandbox
